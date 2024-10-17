@@ -1,20 +1,20 @@
 [
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_step1",
+    "function": "test_step1",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_step2",
+    "function": "test_step2",
     "timeout": 10,
-    "points": 1
+    "points": 10
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_step3",
+    "function": "test_step3",
     "timeout": 10,
-    "points": 1
+    "points": 20
   }
 ]
