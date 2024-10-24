@@ -8,6 +8,13 @@ def main():
     index = int(input("Welcher Vorname soll ausgegeben werden (1-5) > "))
     print(names[index - 1])
 
+def main2():
+    names = []
+    for _ in range(5):
+        names.append(input("Vorname > "))
+    index = int(input("Welcher Vorname soll ausgegeben werden (1-5) > "))
+    print(names[index - 1])
+
 
 if __name__ == "__main__":
     main()
